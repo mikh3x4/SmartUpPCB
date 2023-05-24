@@ -1,0 +1,13 @@
+motors - 4x 12V, 1.8A stall, 0.3A rated
+servos - 6x 5V, 150mA
+
+5V rail -> 0.75A for servos + a bit for logic 1A will be sufficient
+li-ion min voltage 3.2*3V=9.6V, 5V can draw max of (80% efficiency) 0.5A
+li-ion rail -> 1.2A rated motors + 0.5A SMPS -> protection around 1.8-2A would be perfect
+
+JLC doesn't have fitting H bridges so let's design custom 2x SLM009 (gate driver) + 3x or 4x ES8205 (nmos), gate powered from 5V rail
+
+5V converter made out of C659153 (switching controller), use UVLO as overdischarge protection no. 1
+C145232 (catch diode)
+C2921170 (inductor)
+
