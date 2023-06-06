@@ -1,0 +1,16 @@
+06-06 16:39:26 replicate_layout.action_replicate_layout 313:Plugin executed on: 'linux'
+06-06 16:39:26 replicate_layout.action_replicate_layout 314:Plugin executed with python version: '3.11.3 (main, Apr  5 2023, 15:52:25) [GCC 12.2.1 20230201]'
+06-06 16:39:26 replicate_layout.action_replicate_layout 315:KiCad build version: 7.0.5
+06-06 16:39:26 replicate_layout.action_replicate_layout 316:Replicate layout plugin version: 74 started
+06-06 16:39:26 replicate_layout.action_replicate_layout 329:All top level windows titles are:
+version_1 — kicad 7.0
+h_bridge [version_1/untitled sheet3] — schematic editor
+
+*version_1 — pcb editor
+
+06-06 16:39:26 replicate_layout.action_replicate_layout 330:All top level windows objects are:
+ <wx._core.Frame object at 0x7fc87c04beb0>
+<wx._core.Frame object at 0x7fc876f60040>
+<wx._core.Frame object at 0x7fc87c04beb0>
+<wx._core.Frame object at 0x7fc876f60040>
+<wx._core.Frame object at 0x7fc87c04beb0>
