@@ -534,7 +534,7 @@
     (property "Value" "Motor_Servo_JR" (at 130.81 108.1516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 121.92 111.506 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal" (at 121.92 111.506 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://forums.parallax.com/uploads/attachments/46831/74481.png" (at 121.92 111.506 0)
