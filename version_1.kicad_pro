@@ -532,6 +532,18 @@
     [
       "9789521c-7f58-473a-9dd2-6c6a71290f6c",
       "power"
+    ],
+    [
+      "03ada194-765a-457e-8ab8-6dd2c4500630",
+      "motor_decoupling"
+    ],
+    [
+      "9928fdc2-0478-43bf-b07d-01064afdc813",
+      "motor_decoupling1"
+    ],
+    [
+      "23e1f189-adcd-4bf6-932c-89dfb08d5d15",
+      "motor_decoupling2"
     ]
   ],
   "text_variables": {}
