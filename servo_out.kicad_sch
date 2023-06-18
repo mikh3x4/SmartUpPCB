@@ -540,9 +540,9 @@
     (property "Datasheet" "http://forums.parallax.com/uploads/attachments/46831/74481.png" (at 121.92 111.506 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 131e2f17-40c9-4789-9385-081ff0c20c03))
-    (pin "2" (uuid 0d5bf965-3d50-4525-b3df-901f9e1d9e84))
-    (pin "3" (uuid eb0be99e-efb7-41ca-87f6-d355a762b3a8))
+    (pin "1" (uuid cf4e9410-05e2-4890-8a88-b9f1ee110e7f))
+    (pin "2" (uuid d37d8c36-53aa-4022-bbeb-d6a82570abb7))
+    (pin "3" (uuid 5143556d-179b-48e6-a0e6-61d5373855e7))
     (instances
       (project "version_1"
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8"
