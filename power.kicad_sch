@@ -2954,7 +2954,7 @@
     (property "Value" "L" (at 97.155 32.385 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_Changjiang_FNR5020S" (at 97.155 34.29 0)
+    (property "Footprint" "Inductor_SMD:L_Changjiang_FNR6045S" (at 97.155 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 97.155 34.29 0)
