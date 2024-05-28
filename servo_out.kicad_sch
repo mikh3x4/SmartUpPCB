@@ -415,7 +415,7 @@
   (symbol (lib_id "power:GND") (at 108.585 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 532b8af9-2da8-405e-a2c8-ad24a2cf609c)
-    (property "Reference" "#PWR038" (at 108.585 116.84 0)
+    (property "Reference" "#PWR?" (at 108.585 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 108.585 114.935 0)
@@ -431,7 +431,7 @@
     (instances
       (project "version_1"
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8"
-          (reference "#PWR038") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8/9cb149a2-fbaf-4e99-919f-0fea623a18aa"
           (reference "#PWR038") (unit 1)
@@ -452,7 +452,7 @@
   (symbol (lib_id "power:+5V") (at 108.585 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82b04f18-f699-43ba-b334-ba50d92eb6d6)
-    (property "Reference" "#PWR035" (at 108.585 93.98 0)
+    (property "Reference" "#PWR?" (at 108.585 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 108.585 86.995 0)
@@ -468,7 +468,7 @@
     (instances
       (project "version_1"
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8/9cb149a2-fbaf-4e99-919f-0fea623a18aa"
           (reference "#PWR035") (unit 1)
@@ -489,7 +489,7 @@
   (symbol (lib_id "Transistor_FET:AO3401A") (at 106.045 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 84a31d9c-49d3-49a7-b4f3-34c85f56c243)
-    (property "Reference" "Q17" (at 111.76 95.885 0)
+    (property "Reference" "Q?" (at 111.76 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "AO3401A" (at 111.76 98.425 0)
@@ -510,7 +510,7 @@
     (instances
       (project "version_1"
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8"
-          (reference "Q17") (unit 1)
+          (reference "Q?") (unit 1)
         )
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8/9cb149a2-fbaf-4e99-919f-0fea623a18aa"
           (reference "Q17") (unit 1)
@@ -531,7 +531,7 @@
   (symbol (lib_id "Motor:Motor_Servo_JR") (at 121.92 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8fc55c24-6972-45f8-8f54-97932c5d015e)
-    (property "Reference" "M5" (at 130.81 105.6116 0)
+    (property "Reference" "M?" (at 130.81 105.6116 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Motor_Servo_JR" (at 130.81 108.1516 0)
@@ -552,7 +552,7 @@
     (instances
       (project "version_1"
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8"
-          (reference "M5") (unit 1)
+          (reference "M?") (unit 1)
         )
         (path "/23ba0750-4a55-4d50-828b-749cc0fbb8c8/9cb149a2-fbaf-4e99-919f-0fea623a18aa"
           (reference "M5") (unit 1)

@@ -5,4 +5,5 @@
   (lib (name "DRV8870DDAR")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/DRV8870DDAR.kicad_sym")(options "")(descr ""))
   (lib (name "B6B-PH-K-S(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/B6B-PH-K-S(LF)(SN).kicad_sym")(options "")(descr ""))
   (lib (name "SM04B-SRSS-TB_(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/SM04B-SRSS-TB_(LF)(SN).kicad_sym")(options "")(descr ""))
+  (lib (name "my_symbols")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/my_symbols.kicad_sym")(options "")(descr ""))
 )
