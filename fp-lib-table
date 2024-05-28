@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "18650")(type "KiCad")(uri "${KIPRJMOD}/18650.pretty")(options "")(descr ""))
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "footprint_back")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/footprint")(options "")(descr "")(disabled))
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/footprint")(options "")(descr ""))
 )

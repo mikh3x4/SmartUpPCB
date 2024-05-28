@@ -1,4 +1,8 @@
 (sym_lib_table
   (version 7)
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "BH-18650-B5BA016")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/BH-18650-B5BA016.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8870DDAR")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/DRV8870DDAR.kicad_sym")(options "")(descr ""))
+  (lib (name "B6B-PH-K-S(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/B6B-PH-K-S(LF)(SN).kicad_sym")(options "")(descr ""))
+  (lib (name "SM04B-SRSS-TB_(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/SM04B-SRSS-TB_(LF)(SN).kicad_sym")(options "")(descr ""))
 )

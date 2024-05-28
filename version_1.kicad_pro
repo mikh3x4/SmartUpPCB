@@ -499,11 +499,11 @@
     ],
     [
       "79f7122c-c2a5-4829-b847-ff54a5199600",
-      "Untitled Sheet"
+      "Motor Driver"
     ],
     [
       "d2110296-333c-46f5-b5da-c8cbeafe02ed",
-      "Untitled Sheet1"
+      "Motor Driver2"
     ],
     [
       "1b8f704b-b129-4c22-a423-d346d579d0e5",
@@ -523,27 +523,15 @@
     ],
     [
       "2d66c507-c79f-41fd-b3e1-2409399b1263",
-      "Untitled Sheet5"
+      "Servo"
     ],
     [
       "6b42193d-347a-4180-b8e6-d7b630d082c4",
-      "Untitled Sheet6"
+      "Servo"
     ],
     [
       "9789521c-7f58-473a-9dd2-6c6a71290f6c",
-      "power"
-    ],
-    [
-      "03ada194-765a-457e-8ab8-6dd2c4500630",
-      "motor_decoupling"
-    ],
-    [
-      "9928fdc2-0478-43bf-b07d-01064afdc813",
-      "motor_decoupling1"
-    ],
-    [
-      "23e1f189-adcd-4bf6-932c-89dfb08d5d15",
-      "motor_decoupling2"
+      "Power"
     ]
   ],
   "text_variables": {}
