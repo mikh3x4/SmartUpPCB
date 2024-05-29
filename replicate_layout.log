@@ -1,62 +1,80 @@
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 359:Plugin executed on: 'linux'
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 360:Plugin executed with python version: '3.11.3 (main, Apr  5 2023, 15:52:25) [GCC 12.2.1 20230201]'
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 361:KiCad build version: 7.0.5
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 362:Plugin version: 2.0.13
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 363:Frame repr: <wx._core.Frame object at 0x7fb38a045090>
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 387:Preparing replicator with C35 as a reference
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 113:getting a list of all footprints on board
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 435:source anchor footprint is 'C35'
-Located on: ['motor_decoupling']
-With filenames: ['motor_decoupling.kicad_sch']
-With sheet_id:['motor_decoupling']
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 442:Corresponding footprints are 
-[('C49', ['motor_decoupling2']), ('C44', ['motor_decoupling1']), ('C35', ['motor_decoupling'])]
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 454:Showing dialog
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'motor_decoupling', file:'motor_decoupling.kicad_sch'
-06-16 11:46:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['motor_decoupling1'], ['motor_decoupling2']]
-06-16 11:46:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1349:Level selected: ['motor_decoupling']
-06-16 11:46:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1184:Filtering list of tracks
-06-16 11:46:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 460:Toolbar position: wx.Point(2526, 97)
-06-16 11:46:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 465:Dialog position: wx.Point(2162, 97)
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 390:constructing a list of sheets suitable for replication on level:'motor_decoupling', file:'motor_decoupling.kicad_sch'
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 427:suitable sheets are:[['motor_decoupling1'], ['motor_decoupling2']]
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 207:Replicating layout
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 236:Starting replication of sheets: [['motor_decoupling1'], ['motor_decoupling2']]
-on level: ['motor_decoupling']
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'darwin'
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.2-0
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x14b0c89d0>
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U17 as a reference
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U17'
+Located on: ['Untitled Sheet3']
+With filenames: ['H_bridge.kicad_sch']
+With sheet_id:['Untitled Sheet3']
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U17', ['Untitled Sheet3']), ('U16', ['Untitled Sheet2']), ('U15', ['Motor Driver2']), ('U13', ['Motor Driver'])]
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'Untitled Sheet3', file:'H_bridge.kicad_sch'
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Motor Driver'], ['Motor Driver2'], ['Untitled Sheet2']]
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['Untitled Sheet3']
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(982, 150)
+05-29 05:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(543, 150)
+05-29 05:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'Untitled Sheet3', file:'H_bridge.kicad_sch'
+05-29 05:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Motor Driver'], ['Motor Driver2'], ['Untitled Sheet2']]
+05-29 05:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['Untitled Sheet3']
+05-29 05:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+05-29 05:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'Untitled Sheet3', file:'H_bridge.kicad_sch'
+05-29 05:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Motor Driver'], ['Motor Driver2'], ['Untitled Sheet2']]
+05-29 05:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['Untitled Sheet3']
+05-29 05:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'Untitled Sheet3', file:'H_bridge.kicad_sch'
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Motor Driver'], ['Motor Driver2'], ['Untitled Sheet2']]
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 240:Starting replication of sheets: [['Motor Driver'], ['Motor Driver2'], ['Untitled Sheet2']]
+on level: ['Untitled Sheet3']
 with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
-06-16 11:46:44 root 299:updating GUI message: 'Preparing for replication'
-06-16 11:46:44 root 304:updating GUI with: 0
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 306:Getting the list of source footprints
-06-16 11:46:44 root 304:updating GUI with: 0
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 316:Getting the list of all the remaining footprints
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 323:Getting source tracks
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1184:Filtering list of tracks
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source zones
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source text items
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source drawing items
-06-16 11:46:44 root 299:updating GUI message: 'Replicating footprints'
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 741:Replicating footprints
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 747:Replicating footprints on sheet ['motor_decoupling1']
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 747:Replicating footprints on sheet ['motor_decoupling2']
-06-16 11:46:44 root 299:updating GUI message: 'Replicating tracks'
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 906:Replicating tracks
-06-16 11:46:44 root 304:updating GUI with: 0
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 912:Replicating tracks on sheet ['motor_decoupling1']
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 736:Net pairs for sheet ['motor_decoupling1'] :[('VCC', 'VCC'), ('GND', 'GND')]
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 912:Replicating tracks on sheet ['motor_decoupling2']
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 736:Net pairs for sheet ['motor_decoupling2'] :[('VCC', 'VCC'), ('GND', 'GND')]
-06-16 11:46:44 root 299:updating GUI message: 'Replicating zones'
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 964:Replicating zones
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 971:Replicating zones on sheet ['motor_decoupling1']
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 736:Net pairs for sheet ['motor_decoupling1'] :[('VCC', 'VCC'), ('GND', 'GND')]
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 971:Replicating zones on sheet ['motor_decoupling2']
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 736:Net pairs for sheet ['motor_decoupling2'] :[('VCC', 'VCC'), ('GND', 'GND')]
-06-16 11:46:44 root 299:updating GUI message: 'Replicating text'
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1042:Replicating text
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1049:Replicating text on sheet ['motor_decoupling1']
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1049:Replicating text on sheet ['motor_decoupling2']
-06-16 11:46:44 root 299:updating GUI message: 'Replicating drawings'
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1082:Replicating drawings
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1088:Replicating drawings on sheet ['motor_decoupling1']
-06-16 11:46:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1088:Replicating drawings on sheet ['motor_decoupling2']
-06-16 11:46:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 223:Replication complete
+05-29 05:23:59 root 332:updating GUI message: 'Preparing for replication'
+05-29 05:23:59 root 337:updating GUI with: 0
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Getting the list of source footprints
+05-29 05:23:59 root 337:updating GUI with: 0
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 320:Getting the list of all the remaining footprints
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source tracks
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source zones
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source text items
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 339:Getting source drawing items
+05-29 05:23:59 root 332:updating GUI message: 'Replicating footprints'
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 806:Replicating footprints
+05-29 05:23:59 root 337:updating GUI with: 0
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['Motor Driver']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['Motor Driver2']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['Untitled Sheet2']
+05-29 05:23:59 root 332:updating GUI message: 'Replicating tracks'
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 977:Replicating tracks
+05-29 05:23:59 root 337:updating GUI with: 0
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['Motor Driver']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Motor Driver'] :[('/ENCODER7', '/ENCODER1'), ('', ''), ('GND', 'GND'), ('VCC', 'VCC'), ('Net-(U17-OUT2)', 'Net-(U13-OUT2)'), ('/ENCODER8', '/ENCODER2'), ('/ML4', '/ML1'), ('ENC_PWR_P', 'ENC_PWR_P'), ('Net-(U17-OUT1)', 'Net-(U13-OUT1)'), ('/MR4', '/MR1'), ('ENC_PWR_G', 'ENC_PWR_G'), ('+5V', '+5V')]
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['Motor Driver2']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Motor Driver2'] :[('', ''), ('+5V', '+5V'), ('GND', 'GND'), ('/MR4', '/MR2'), ('Net-(U17-OUT2)', 'Net-(U15-OUT2)'), ('VCC', 'VCC'), ('/ENCODER8', '/ENCODER4'), ('ENC_PWR_P', 'ENC_PWR_P'), ('/ML4', '/ML2'), ('Net-(U17-OUT1)', 'Net-(U15-OUT1)'), ('ENC_PWR_G', 'ENC_PWR_G'), ('/ENCODER7', '/ENCODER3')]
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['Untitled Sheet2']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Untitled Sheet2'] :[('', ''), ('+5V', '+5V'), ('GND', 'GND'), ('Net-(U17-OUT1)', 'Net-(U16-OUT1)'), ('VCC', 'VCC'), ('/MR4', '/MR3'), ('/ENCODER8', '/ENCODER6'), ('ENC_PWR_P', 'ENC_PWR_P'), ('ENC_PWR_G', 'ENC_PWR_G'), ('/ENCODER7', '/ENCODER5'), ('Net-(U17-OUT2)', 'Net-(U16-OUT2)'), ('/ML4', '/ML3')]
+05-29 05:23:59 root 332:updating GUI message: 'Replicating zones'
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1047:Replicating zones
+05-29 05:23:59 root 337:updating GUI with: 0
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['Motor Driver']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Motor Driver'] :[('/ENCODER7', '/ENCODER1'), ('', ''), ('GND', 'GND'), ('VCC', 'VCC'), ('Net-(U17-OUT2)', 'Net-(U13-OUT2)'), ('/ENCODER8', '/ENCODER2'), ('/ML4', '/ML1'), ('ENC_PWR_P', 'ENC_PWR_P'), ('Net-(U17-OUT1)', 'Net-(U13-OUT1)'), ('/MR4', '/MR1'), ('ENC_PWR_G', 'ENC_PWR_G'), ('+5V', '+5V')]
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['Motor Driver2']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Motor Driver2'] :[('', ''), ('+5V', '+5V'), ('GND', 'GND'), ('/MR4', '/MR2'), ('Net-(U17-OUT2)', 'Net-(U15-OUT2)'), ('VCC', 'VCC'), ('/ENCODER8', '/ENCODER4'), ('ENC_PWR_P', 'ENC_PWR_P'), ('/ML4', '/ML2'), ('Net-(U17-OUT1)', 'Net-(U15-OUT1)'), ('ENC_PWR_G', 'ENC_PWR_G'), ('/ENCODER7', '/ENCODER3')]
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['Untitled Sheet2']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Untitled Sheet2'] :[('', ''), ('+5V', '+5V'), ('GND', 'GND'), ('Net-(U17-OUT1)', 'Net-(U16-OUT1)'), ('VCC', 'VCC'), ('/MR4', '/MR3'), ('/ENCODER8', '/ENCODER6'), ('ENC_PWR_P', 'ENC_PWR_P'), ('ENC_PWR_G', 'ENC_PWR_G'), ('/ENCODER7', '/ENCODER5'), ('Net-(U17-OUT2)', 'Net-(U16-OUT2)'), ('/ML4', '/ML3')]
+05-29 05:23:59 root 332:updating GUI message: 'Replicating text'
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1136:Replicating text
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['Motor Driver']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['Motor Driver2']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['Untitled Sheet2']
+05-29 05:23:59 root 332:updating GUI message: 'Replicating drawings'
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1187:Replicating drawings
+05-29 05:23:59 root 337:updating GUI with: 0
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['Motor Driver']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['Motor Driver2']
+05-29 05:23:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['Untitled Sheet2']
+05-29 05:24:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete
